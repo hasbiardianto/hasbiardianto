@@ -5,7 +5,8 @@ i'm undergraduate from **Muhammadiyah University of Semarang**.\
 im intrested in **Machine Learning** and **Web Development**.
 
 Lets get to know each others 🤝 :\
-rdnthasbi@gmail.com
+rdnthasbi@gmail.com \
+https://www.linkedin.com/in/hasbi-ardianto/\
 
 <p align="left">
 <a href="https://github.com/hasbiardianto">
