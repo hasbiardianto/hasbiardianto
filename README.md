@@ -1,4 +1,4 @@
-### Hola!! 👋
+### Hi!! 👋
 
 My name is **Hasbi Ardianto Pratama**.\
 i'm undergraduate from **Muhammadiyah University of Semarang**.\
